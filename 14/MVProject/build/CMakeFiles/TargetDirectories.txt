@@ -1,0 +1,4 @@
+/home/zhengyi/11/14/MVProject/build/CMakeFiles/rebuild_cache.dir
+/home/zhengyi/11/14/MVProject/build/CMakeFiles/MVProject.dir
+/home/zhengyi/11/14/MVProject/build/CMakeFiles/edit_cache.dir
+/home/zhengyi/11/14/MVProject/build/CMakeFiles/MVProject_autogen.dir
